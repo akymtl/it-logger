@@ -1,0 +1,12 @@
+.nav-placement {
+    margin-bottom: 30px;
+    padding: 0 20px;
+}
+
+.valign-wrapper {
+    height: 80vh;
+}
+
+.valign-wrapper .center-align {
+    width: 100%;
+}
